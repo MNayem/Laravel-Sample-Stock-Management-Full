@@ -1,0 +1,10 @@
+[27-Jan-2022 13:22:43 UTC] PHP Fatal error:  Cannot redeclare App\Http\Controllers\StockController::dueedit() in /home/sadaf71/stocksample.digitalvai.com/app/Http/Controllers/StockController.php on line 215
+[27-Jan-2022 13:23:26 UTC] PHP Fatal error:  Cannot redeclare App\Http\Controllers\StockController::dueedit() in /home/sadaf71/stocksample.digitalvai.com/app/Http/Controllers/StockController.php on line 215
+[09-Feb-2022 10:26:30 UTC] PHP Fatal error:  Cannot redeclare App\Http\Controllers\StockController::dueedit() in /home/sadaf71/stocksample.digitalvai.com/app/Http/Controllers/StockController.php on line 261
+[09-Feb-2022 10:34:40 UTC] PHP Fatal error:  Cannot redeclare App\Http\Controllers\StockController::dueedit() in /home/sadaf71/stocksample.digitalvai.com/app/Http/Controllers/StockController.php on line 261
+[18-Apr-2022 11:37:08 UTC] PHP Fatal error:  Cannot use App\Models\Collection as Collection because the name is already in use in /home/sadaf71/stocksample.digitalvai.com/app/Http/Controllers/StockController.php on line 15
+[18-Apr-2022 11:37:25 UTC] PHP Fatal error:  Cannot use App\Models\Collection as Collection because the name is already in use in /home/sadaf71/stocksample.digitalvai.com/app/Http/Controllers/StockController.php on line 15
+[10-May-2022 08:52:30 UTC] PHP Fatal error:  Cannot redeclare App\Http\Controllers\StockController::yeasindailysalestore() in /home/sadaf71/stocksample.digitalvai.com/app/Http/Controllers/StockController.php on line 285
+[11-May-2022 05:08:33 UTC] PHP Fatal error:  Cannot redeclare App\Http\Controllers\StockController::duestore() in /home/sadaf71/stocksample.digitalvai.com/app/Http/Controllers/StockController.php on line 161
+[19-May-2022 10:41:16 UTC] PHP Fatal error:  Cannot use Illuminate\Http\Request as Request because the name is already in use in /home/sadaf71/stocksample.digitalvai.com/app/Http/Controllers/StockController.php on line 21
+[19-May-2022 10:41:27 UTC] PHP Fatal error:  Cannot use Illuminate\Http\Request as Request because the name is already in use in /home/sadaf71/stocksample.digitalvai.com/app/Http/Controllers/StockController.php on line 21
